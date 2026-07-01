@@ -1,0 +1,18 @@
+.logo {
+  max-width: 19.84375%;
+  margin: 2.65625% 0 7.03125%;
+}
+
+@media (max-width: 1024px) {
+  .logo {
+    max-width: 33%;
+    margin: 3.90625% 0 11.71875%;
+  }
+}
+
+@media (max-width: 544px) {
+  .logo {
+    max-width: 58.75%;
+    margin: 6.25% 0 15.625%;
+  }
+}
