@@ -1,30 +1,30 @@
-.intro {
+.content {
   max-width: 64.84375%;
   margin-left: 11.56%;
   align-self: flex-start;
 }
 
-.intro__title {
+.content__title {
   font-size: 54px;
   font-weight: 900;
   line-height: 1;
   margin: 0 0 4.81%;
 }
 
-.intro__quote {
+.content__quote {
   font-size: 24px;
   line-height: 1.4;
   margin: 0 0 1.2%;
 }
 
-.intro__quote-author {
+.content__quote-author {
   font-size: 24px;
   line-height: 1.4;
   margin: 0 0 3.855%;
   text-align: end;
 }
 
-.intro__text {
+.content__text {
   max-width: 87.5%;
   font-size: 16px;
   line-height: 163%;
@@ -32,54 +32,54 @@
 }
 
 @media (max-width: 1024px) {
-  .intro {
+  .content {
     max-width: 93.75%;
     align-self: center;
     margin: 0;
   }
 
-  .intro__title {
+  .content__title {
     max-width: 98%;
     font-size: 45px;
     margin: 0 0 6.94%;
   }
 
-  .intro__quote {
+  .content__quote {
     max-width: 720px;
   }
 
-  .intro__quote-author {
+  .content__quote-author {
     margin: 0 0 4.4%;
   }
 
-  .intro__text {
+  .content__text {
     max-width: 100%;
     margin: 0 0 12.2%;
   }
 }
 
 @media (max-width: 544px) {
-  .intro {
+  .content {
     max-width: 90%;
     align-self: center;
     margin: 0;
   }
 
-  .intro__title {
+  .content__title {
     max-width: 100%;
     font-size: 32px;
     margin: 0 0 13.8%;
   }
 
-  .intro__quote {
+  .content__quote {
     margin: 0 0 3.472%;
   }
 
-  .intro__quote-author {
+  .content__quote-author {
     margin: 0 0 11.1%;
   }
 
-  .intro__text {
+  .content__text {
     margin: 0 0 22.2%;
   }
 }
