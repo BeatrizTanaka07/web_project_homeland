@@ -65,7 +65,7 @@
   margin: 0;
   font-size: 12px;
   text-transform: uppercase;
-  letter-spacing: 12%;
+  letter-spacing: 0.12em;
   color: #aaaaaa;
   margin-bottom: 8px;
 }
